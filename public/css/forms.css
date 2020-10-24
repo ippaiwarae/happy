@@ -90,6 +90,10 @@ form {
 
   .new-upload span {
     position: absolute;
-    right: 16px;
-    bottom: 16px;
+    right: 12px;
+    bottom: 14px;
+    background: #ffffff;
+    border: 1px solid #d3e2e5;
+    box-sizing: border-box;
+    
   }
